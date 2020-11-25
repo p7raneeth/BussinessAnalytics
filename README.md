@@ -1,2 +1,0 @@
-# BussinessAnalytics
-Assignment
